@@ -111,7 +111,7 @@ authDomain: '[YOUR_CUSTOM_DOMAIN]'
 
 
 function Skip() {
-window.location.href = "/Pages/Home2.html"
+window.location.href = "https://sillyangel.ml"
 }
 
 
